@@ -2,3 +2,4 @@ create table emp(
 id int,
 emp_name varchar(20)
 );
+insert into emp(id,emp_name) values(1,abc);
